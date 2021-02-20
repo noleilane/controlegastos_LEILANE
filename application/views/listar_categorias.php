@@ -7,14 +7,12 @@
 </head>
 <body>
 	<h1>Lista de categorias</h1>
-  <table>
-    <tr>
-      <td>Transporte</td>
-      <td>Alimentação</td>
-      <td>Remédios</td>
-      <td>Telefone/Internet</td>
-      <td>Outros gastos</td>
-    </tr> 
-  </table>
+   <ul>
+      <li>Transporte</li>
+      <li>Alimentação</li>
+      <li>Remédios</li>
+      <li>Telefone/Internet</li>
+      <li>Outros gastos</li>
+   </ul> 
 </body>
 </html>
