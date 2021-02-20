@@ -6,7 +6,7 @@
 </head>
 <body>
 	<h1>Novo gasto</h1>
-  <form action="/action_page.php">
+  <form action="">
     <label for="data">Data: <input type="date" name="data"></label><br>
     <label for="descricao">Descrição: <input type="text" name="descricao"></label><br>
     <label for="valor">Valor: <input type="number" name="valor"></label><br>
